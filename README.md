@@ -1,4 +1,4 @@
 # Calculator
 
 # Member
-[Eztas](https://github.com)
+[Eztas](https://github.com/Eztas)
